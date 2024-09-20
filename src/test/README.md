@@ -1,3 +1,0 @@
-# Test
-
-[Back](../../README.md)
