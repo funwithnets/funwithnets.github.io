@@ -1,8 +1,7 @@
-# funwithnets.github.io
-
 Fun with Neural Networks!
 
-- [about](about.md)
-- [project](projects/test.md)
-- [project](/projects/test.md)
-- [project](./projects/test.md)
+[about](about.md)
+
+# [Bla - Foo](projects/project_1/test.md)
+
+## [Foo](projects/project_2/test.md)
