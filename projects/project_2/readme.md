@@ -4,7 +4,4 @@
 
 ### Test
 
-[back](../../README.md)
-
-$$a$$
-$$ a $$
+[back](../../index.md)
