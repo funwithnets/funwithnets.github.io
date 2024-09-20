@@ -2,4 +2,4 @@
 
 This is a test.
 
-[back](../../README.md)
+[back](../README.md)
