@@ -4,4 +4,4 @@ Fun with Neural Networks!
 
 # [Bla - Foo](projects/project_1/test.md)
 
-## [Foo](projects/project_2/test.md)
+## [Foo](projects/project_2/readme.md)
